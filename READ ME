@@ -1,0 +1,21 @@
+'''DANNY HATEGEKIMANA'''
+ASK 1:
+     UI Challenge: Interactive Photo Gallery
+     There is use of javascript,css, and HTML to implement the interactive Photo Gallery
+     1.HTML : I used HTMl to consluct the structure of the interactive photo page including DIVISIONs. 
+     2.CSS : I also used CSS to design the stracture that I have created using HTML. 
+TASK 2:
+     Coding Challenge 1: Array Manipulation
+     I choose to use java programmming cause is the programming language i like the most than Python 
+     1. I used functions(method) within the Main class to implement array Manipulation
+     2. then after i use also Main Method to call that Method inorder to perform it's function 
+TASK 3:
+     Coding Challenge 2: String Transformation
+     I also used java to implement the string transformation 
+     1. for this I used if statement to make the condition which were asked 
+     2. and within if ststement if insert for loop to loop the reverse of the string by help of the method 
+       called .length() and charAT() 
+     3.for retrieving the ANSCII code of the string i used for loop also and the string transformation from 
+       string to integer
+        
+@COPYRIGHT 2024
