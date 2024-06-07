@@ -26,7 +26,7 @@ public class SubarraySum {
         Scanner obj= new Scanner(System.in);
 
         int[] arr = {4, 2, 7, 1, 9, 5};
-        System.out.println("enter the targrt");
+        System.out.println("enter the target ");
         int target = obj.nextInt();
 
         System.out.println(hasSubarrayWithSum(arr, target));  // Output: true
